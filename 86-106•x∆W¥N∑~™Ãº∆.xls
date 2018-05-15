@@ -1,0 +1,228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" >
+<html>
+<head><link rel="shortcut icon" href="http://gotac.myweb.hinet.net/gotac.ico" >
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<!-- 系統開發:金諄資訊股份有限公司 (02) 2759-6506 -->
+
+
+<title>就業者－按性別分查詢結果網頁</title>
+<style type="text/css">
+<!--
+body {
+background-color: #FFFFFF;
+}
+body,td,th {
+	font-size: 14;
+	color: #000066;
+}
+
+a:active {
+	text-decoration: none;
+}
+a:link {
+	color: #000066;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #330066;
+}
+a:hover {
+	text-decoration: underline;
+}
+ 
+th,.stycode {
+	background-color: #E6FFF5;
+	font-weight: lighter;
+	color: #000066;
+	}
+.stytitle {
+	font-weight: bold;
+	color: #000066;
+	background-color: #BBF;
+}
+.stydata,.styrate,.{
+	background-color: #FFFFEC;
+	color: #0000CC;
+	background-position: center center;
+}
+ 
+
+.stytable {
+	background-color: #E6FFFF;
+	background-position: center center;
+}
+
+.headcls {
+	font-size: 24;
+	color: #000066;
+	font-weight: bold;
+}
+.msgcls {
+	color: #FF0000;
+}
+.desccls {
+	color: #000099;
+}
+ 
+ .tblcls {
+     margin-left:15px;
+}
+
+-->
+</style>
+</head>
+
+
+<script language="JavaScript" src="stcom.js"></script>
+<script>
+var cyclekind2=2;
+function openWindowPlus(ltype,lsysid, lparm,ldframe,ldposx,ldposy,ldheight,ldwidth){
+}
+</script>
+
+<body  onLoad="MM_preloadImages('prvbtn.gif','prvbtn_f2.gif')" >
+<form   name="form1">
+
+<table summary='查詢結果網頁表格資料'  width="100%" height="55" border="0">
+  <tr align="center" valign="middle"  >
+    <td colspan=5 class="headcls">就業者－按性別分</td>          
+  </tr>
+  <tr align="center" valign="middle"  >
+    <td align=left width="30%">單位：千人</td>          
+    <td></td>          
+    <td></td>          
+    <td></td>          
+    <td align=right width="30%">表格數：1</td>          
+  </tr>  
+  <tr><td height="15" colspan=5 background="imageline2.gif">&nbsp;</td>          
+  </tr>
+</table>
+
+ <table summary='統計資料庫查詢結果網頁表格資料'  border="1" cellpadding="1" cellspacing="1" class="tblcls">
+
+    <tr ><th width="64"  align="center" valign="middle" scope="col" class="stytitle">　　　　</th>
+
+ <th  width="88"  align="center" scope="col" class="stytitle">總計</th>       
+    </tr>
+
+
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>86年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=86am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">     9,176</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>87年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=87am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">     9,289</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>88年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=88am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">     9,385</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>89年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=89am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">     9,491</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>90年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=90am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">     9,383</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>91年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=91am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">     9,454</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>92年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=92am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">     9,573</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>93年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=93am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">     9,786</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>94年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=94am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">     9,942</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>95年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=95am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    10,111</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>96年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=96am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    10,294</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>97年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=97am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    10,403</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>98年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=98am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    10,279</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>99年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=99am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    10,493</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>100年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=100am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    10,709</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>101年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=101am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    10,860</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>102年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=102am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    10,967</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>103年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=103am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    11,079</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>104年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=104am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    11,198</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>105年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=105am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    11,267</a> </td>          
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>106年平均</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=106am=0a((f=213110020ac1=11ac2>=0ac3>=0ac4>=0ac5>=0)) ');">    11,352</a> </td>          
+   </tr>
+   
+ </table>
+
+ <desc><span class="msgcls"></span></desc>
+ <desc><span class="desccls"></span></desc>
+</form>
+</body>
+</html>
+
+
+
+
+
+ 

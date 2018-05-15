@@ -1,0 +1,713 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" >
+<html>
+<head><link rel="shortcut icon" href="http://gotac.myweb.hinet.net/gotac.ico" >
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<!-- 系統開發:金諄資訊股份有限公司 (02) 2759-6506 -->
+
+
+<title>產業及社福外勞人數按產業及縣市分查詢結果網頁</title>
+<style type="text/css">
+<!--
+body {
+background-color: #FFFFFF;
+}
+body,td,th {
+	font-size: 14;
+	color: #000066;
+}
+
+a:active {
+	text-decoration: none;
+}
+a:link {
+	color: #000066;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #330066;
+}
+a:hover {
+	text-decoration: underline;
+}
+ 
+th,.stycode {
+	background-color: #E6FFF5;
+	font-weight: lighter;
+	color: #000066;
+	}
+.stytitle {
+	font-weight: bold;
+	color: #000066;
+	background-color: #BBF;
+}
+.stydata,.styrate,.{
+	background-color: #FFFFEC;
+	color: #0000CC;
+	background-position: center center;
+}
+ 
+
+.stytable {
+	background-color: #E6FFFF;
+	background-position: center center;
+}
+
+.headcls {
+	font-size: 24;
+	color: #000066;
+	font-weight: bold;
+}
+.msgcls {
+	color: #FF0000;
+}
+.desccls {
+	color: #000099;
+}
+ 
+ .tblcls {
+     margin-left:15px;
+}
+
+-->
+</style>
+</head>
+
+
+<script language="JavaScript" src="stcom.js"></script>
+<script>
+var cyclekind2=2;
+function openWindowPlus(ltype,lsysid, lparm,ldframe,ldposx,ldposy,ldheight,ldwidth){
+}
+</script>
+
+<body  onLoad="MM_preloadImages('prvbtn.gif','prvbtn_f2.gif')" >
+<form   name="form1">
+
+<table summary='查詢結果網頁表格資料'  width="100%" height="55" border="0">
+  <tr align="center" valign="middle"  >
+    <td colspan=5 class="headcls">產業及社福外勞人數按產業及縣市分</td>  
+  </tr>
+  <tr align="center" valign="middle"  >
+    <td align=left width="30%">單位：人數</td>  
+    <td></td>  
+    <td></td>  
+    <td></td>  
+    <td align=right width="30%">表格數：1</td>  
+  </tr>  
+  <tr><td height="15" colspan=5 background="imageline2.gif">&nbsp;</td>  
+  </tr>
+</table>
+
+ <table summary='統計資料庫查詢結果網頁表格資料'  border="1" cellpadding="1" cellspacing="1" class="tblcls">
+
+    <tr ><th width="96" colspan=2 align="center" valign="middle" scope="col" class="stytitle">　　　　</th>
+
+ <th  width="72"  align="center" scope="col" class="stytitle">總計</th>       
+    </tr>
+
+
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>90年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=90am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 304,605</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=90am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  43,538</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=90am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  35,733</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=90am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  64,740</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=90am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  34,315</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=90am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  19,152</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=90am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  21,652</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>91年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=91am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 303,684</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=91am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  43,031</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=91am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  35,289</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=91am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  65,900</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=91am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  34,112</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=91am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  18,684</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=91am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  21,481</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>92年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=92am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 300,150</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=92am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  42,056</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=92am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  32,334</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=92am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  67,515</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=92am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  34,091</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=92am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  18,290</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=92am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  21,843</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>93年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=93am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 314,034</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=93am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  42,214</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=93am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  32,534</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=93am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  70,839</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=93am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  35,486</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=93am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  19,282</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=93am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  24,846</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>94年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=94am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 327,396</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=94am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  43,478</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=94am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  33,907</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=94am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  71,165</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=94am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  37,669</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=94am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  20,152</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=94am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  26,019</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>95年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=95am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 338,755</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=95am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  45,099</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=95am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  35,627</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=95am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  70,925</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=95am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  39,883</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=95am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  22,540</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=95am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  25,884</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>96年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=96am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 357,937</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=96am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  48,893</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=96am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  37,211</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=96am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  72,169</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=96am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  44,427</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=96am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  24,232</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=96am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  27,333</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>97年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=97am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 365,060</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=97am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  51,038</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=97am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  37,246</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=97am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  69,408</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=97am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  47,354</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=97am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  25,005</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=97am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  27,865</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>98年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=98am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 351,016</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=98am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  49,469</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=98am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  38,026</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=98am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  63,207</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=98am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  43,801</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=98am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  23,361</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=98am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  26,418</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>99年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=99am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 379,653</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=99am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  53,647</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=99am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  38,951</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=99am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  67,873</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=99am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  48,804</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=99am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  24,838</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=99am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  27,973</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>100年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=100am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 425,660</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=100am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  60,636</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=100am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  39,885</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=100am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  73,884</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=100am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  58,028</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=100am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  31,120</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=100am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  31,264</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>101年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=101am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 445,579</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=101am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  63,134</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=101am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  39,764</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=101am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  75,168</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=101am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  61,185</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=101am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  34,085</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=101am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  34,150</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>102年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=102am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 489,134</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=102am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  69,703</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=102am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  40,700</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=102am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  82,666</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=102am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  67,274</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=102am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  39,127</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=102am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  38,223</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>103年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=103am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 551,596</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=103am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  78,100</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=103am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  42,266</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=103am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  92,555</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=103am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  76,205</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=103am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  48,455</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=103am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  44,237</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>104年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=104am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 587,940</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=104am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  83,253</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=104am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  43,827</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=104am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');">  96,841</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=104am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  82,537</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=104am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  52,479</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=104am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  49,139</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>105年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=105am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 624,768</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=105am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  88,713</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=105am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  45,168</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=105am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');"> 101,255</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=105am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  88,993</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=105am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  55,718</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=105am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  52,801</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode" rowspan=7  align="left" scope="row" nowrap>106年底</th><th align=left>總計</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=106am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4>=0) ) ac5>=0)) ');"> 676,142</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>新北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=106am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3100) ) ac5>=0)) ');">  94,597</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺北市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=106am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=1200) ) ac5>=0)) ');">  45,936</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>桃園市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=106am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3500) ) ac5>=0)) ');"> 110,756</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺中市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=106am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3200) ) ac5>=0)) ');">  98,622</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>臺南市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=106am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3300) ) ac5>=0)) ');">  58,564</a> </td>  
+   </tr>
+   
+   <tr>
+   <th class="stycode"   align="left" scope="row" nowrap>高雄市</th>
+  <td class="stydata" align="right" nowrap> <a  onKeydown=nullproc();  onMouseDown="openWindow(1,239,' y=106am=0a((f=213916031ac1>=0ac2>=0ac3>=0 a(  (c4=3400) ) ac5>=0)) ');">  57,358</a> </td>  
+   </tr>
+   
+ </table>
+
+ <desc><span class="msgcls"></span></desc>
+ <desc><span class="desccls"></span></desc>
+</form>
+</body>
+</html>
+ 
