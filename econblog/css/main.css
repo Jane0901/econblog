@@ -2466,11 +2466,23 @@ html.no-csstransitions .home-content__main {
 /* -------------------------------------------------------------------
  * ## bricks/masonry
  * ------------------------------------------------------------------- */
-.masonry-wrap {
-  margin-top: 6rem;
-  max-width: none;
-  width: 1380px;
-}
+ .masonry2 {
+   display: flex;
+   flex-flow: row wrap;
+   margin-left: -8px; /* Adjustment for the gutter */
+   position:relative;
+   align-items: center;
+   justify-content:center;
+ }
+
+ .masonry-wrap {
+   max-width:100%;
+   min-height: 100%;
+   display:absolute;
+   align-items: center;
+   justify-content:center;
+   position:relative;
+ }
 
 .masonry:after {
   content: "";
@@ -2642,14 +2654,54 @@ html.no-csstransitions .home-content__main {
  * responsive:
  * works
  * ------------------------------------------------------------------- */
-@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 2200px) {
+  .masonry-wrap {
+    width: 1700px;
+  }
+
+  .masonry .grid-sizer,
+  .masonry__brick {
+    width: 700px;
+  }
+}
+@media only screen and (max-width: 2000px) {
+  .masonry-wrap {
+    width: 1500px;
+  }
+
+  .masonry .grid-sizer,
+  .masonry__brick {
+    width: 650px;
+  }
+}
+@media only screen and (max-width: 1600px) {
+  .masonry-wrap {
+    width: 1300px;
+  }
+
+  .masonry .grid-sizer,
+  .masonry__brick {
+    width: 600px;
+  }
+}
+@media only screen and (max-width: 1450px) {
+  .masonry-wrap {
+    max-width: 1250px;
+  }
+
+  .masonry .grid-sizer,
+  .masonry__brick {
+    width: 570px;
+  }
+}
+@media only screen and (max-width: 1400px) {
   .masonry-wrap {
     width: 1200px;
   }
 
   .masonry .grid-sizer,
   .masonry__brick {
-    width: 400px;
+    width: 550px;
   }
 }
 @media only screen and (max-width: 1350px) {
@@ -2659,7 +2711,7 @@ html.no-csstransitions .home-content__main {
 
   .masonry .grid-sizer,
   .masonry__brick {
-    width: 386px;
+    width: 500px;
   }
 }
 @media only screen and (max-width: 1300px) {
@@ -2669,23 +2721,12 @@ html.no-csstransitions .home-content__main {
 
   .masonry .grid-sizer,
   .masonry__brick {
-    width: 330px;
+    width: 475px;
   }
 }
 @media only screen and (max-width: 1200px) {
-  .s-works {
-    padding: 15rem 0 22.2rem;
-  }
-}
-@media only screen and (max-width: 1100px) {
-  .masonry-wrap {
-    width: 90%;
-    max-width: 800px;
-  }
-
-  .masonry .grid-sizer,
-  .masonry__brick {
-    width: 50%;
+    .s-works {
+      padding: 15rem 0 22.2rem;
   }
 }
 @media only screen and (max-width: 800px) {
