@@ -3454,3 +3454,9 @@ html.no-csstransitions .home-content__main {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+discussion {
+    float: left;
+    width: 100%;
+    overflow-x: hidden;
+}
