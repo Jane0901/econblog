@@ -11,7 +11,7 @@
 "0","  scale_fill_discrete(name=""縣市"","
 "0","                      breaks=c(""Taoyuan"",""Taichung"",""NewTaipei"",""cTaipei"",""cTainan"",""Kaohsiung"""
 "0","                             ,""aothers""),"
-"0","                      labels=c(""桃園縣"",""台中市"",""新北市"",""台北市"",""台南市"",""高雄市"""
+"0","                      labels=c(""桃園市"",""台中市"",""新北市"",""台北市"",""台南市"",""高雄市"""
 "0","                             ,""其他十四縣市"")"
 "0","                      )+"
 "0","  theme_minimal()"
