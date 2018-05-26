@@ -3454,9 +3454,3 @@ html.no-csstransitions .home-content__main {
 }
 
 /*# sourceMappingURL=main.css.map */
-
-#fb-root {
-    float: left;
-    width: 100%;
-    overflow-x: hidden;
-}
